@@ -1,2 +1,2 @@
 # Hello-Python
-Aprendiendo Python desde cero by MoureDev
+Aprendiendo Python desde cero con MoureDev
